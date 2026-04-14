@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tejas Mulekar</h1>
-<h3 align="center">E&TC Student | GDSC Member | Building with Firebase, React Native & Google AI</h3>
+<h3 align="center">E&TC Engineering Student | Building with Firebase, React Native & Google AI</h3>
 
 <p align="center">
   <a href="https://developers.google.com/profile/u/105097848655408514164">
